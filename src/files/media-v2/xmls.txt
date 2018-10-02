@@ -1,0 +1,85 @@
+11/22/2017  05:33 AM             7,963 9JKL_Cool Friend Luke_EP1.xml
+11/22/2017  05:33 AM            12,000 America's Funniest Home Videos_EP1.xml
+11/22/2017  05:33 AM             9,980 American Horror Story_EP2.xml
+11/22/2017  05:33 AM             7,013 American Housewife_Boo-Who_EP2.xml
+11/22/2017  05:33 AM             7,977 blackish_Advance to Go_EP2.xml
+11/22/2017  05:33 AM             9,954 Blue Bloods_EP2.xml
+11/22/2017  05:33 AM             8,008 Bob's Burgers_The Silence of the Louise_EP1.xml
+11/22/2017  05:33 AM             9,998 Bull_Play the Hand You're Dealt_EP3.xml
+11/22/2017  05:33 AM             9,965 Chicago Fire_EP2.xml
+11/22/2017  05:33 AM             9,964 Chicago PD_EP1.xml
+11/22/2017  05:33 AM            12,011 Crazy Ex Girlfriend_Josh Is a Liar_EP1.xml
+11/22/2017  05:33 AM             9,988 Criminal Minds_Killer App_EP3.xml
+11/22/2017  05:33 AM            20,016 Dancing With the Stars LIVE_EP3.xml
+11/22/2017  05:33 AM            11,997 Designated Survivor_Suckers_EP2.xml
+11/22/2017  05:33 AM            11,954 Dynasty_EP1.xml
+11/22/2017  05:33 AM            12,027 Evil Things_The Wardrobe and The Interview_EP1.xml
+11/22/2017  05:33 AM             8,042 Fresh Off the Boat_It's a Plastic Pumpkin Louis Huang_EP2.xml
+11/22/2017  05:33 AM             9,983 Garage Rehab_Abel Racing_EP1.xml
+11/22/2017  05:33 AM             7,941 Ghosted_EP1.xml
+11/22/2017  05:33 AM            11,955 Gotham_EP2.xml
+11/22/2017  05:33 AM             7,950 Great News_EP1.xml
+11/22/2017  05:33 AM            22,017 Guardians of the Galaxy_EP1.xml
+11/22/2017  05:33 AM             9,964 Hawaii Five O_EP2.xml
+11/22/2017  05:33 AM             8,046 House Hunters International_Sea Sight in the Isle of Wight_EP8.xml
+11/22/2017  05:33 AM             7,021 House Hunters_Cozy Cabin in California_EP7.xml
+11/22/2017  05:33 AM            14,039 HousHunters Renovation_Big Family, Big Renovation_EP6.xml
+11/22/2017  05:33 AM            11,997 How to Get Away With Murder_EP2.xml
+11/22/2017  05:33 AM            12,000 Ice Road Truckers_The Big Skid_EP1.xml
+11/22/2017  05:33 AM            15,989 Jeepers Creepers 3_EP1.xml
+11/22/2017  05:33 AM             8,021 Kevin Can Wait_Plus One Is the Loneliest Number_EP2.xml
+11/22/2017  05:33 AM            12,033 Kevin Probably Saves the World_How to Be Good_EP1.xml
+11/22/2017  05:33 AM             7,989 Kindred Spirits_Fire Starter_EP1.xml
+11/22/2017  05:33 AM            12,006 Kindred Spirits_Shadow of a Doubt_EP2.xml
+11/22/2017  05:33 AM            12,001 Law & Order Special Victims Unit_EP1.xml
+11/22/2017  05:33 AM            10,024 Law & Order True Crime The Menendez Murders_EP2.xml
+11/22/2017  05:33 AM            10,016 Law & Order True Crime_The Menendez Murders.xml
+11/22/2017  05:33 AM             9,998 Madam Secretary_The Essentials_EP1.xml
+11/22/2017  05:33 AM             9,975 Marvel's Inhumans_EP2.xml
+11/22/2017  05:33 AM             7,975 Me, Myself & I_Star Wars_EP2.xml
+11/22/2017  05:33 AM            12,011 Misfit Garage Fired Up_Stars Align_EP1.xml
+11/22/2017  05:33 AM            10,013 Misfit Garage_Fair Game for a Fairlane_EP2.xml
+11/22/2017  05:33 AM            26,022 MLB World Series_Game5_2017.xml
+11/22/2017  05:33 AM             8,032 Modern Family_It's the Great Pumpkin Phil Dunphy_EP4.xml
+11/22/2017  05:33 AM             9,994 NCIS Los Angeles_Plain Sight_EP1.xml
+11/22/2017  05:33 AM             9,976 NCIS New Orleans_EP2.xml
+11/22/2017  05:33 AM             9,992 Person of Interest_Triggerman_EP1.xml
+11/22/2017  05:33 AM            14,042 Project Runway Social Thread_Driving Miss Unconventional_EP3.xml
+11/22/2017  05:33 AM            16,008 Project Runway_Warrior Fashion_EP4.xml
+11/22/2017  05:33 AM            14,039 Property Brothers_Chasing the Suburban Dream Home_EP1.xml
+11/22/2017  05:33 AM            14,029 Property Brothers_Collaboration and Teamwork_EP2.xml
+11/22/2017  05:33 AM            12,009 Riverdale_The Watcher in the Woods_EP1.xml
+11/22/2017  05:33 AM            17,989 San Andreas_EP1.xml
+11/22/2017  05:33 AM            11,957 Scandal_EP2.xml
+11/22/2017  05:33 AM            10,000 Scorpion_Nuke Kids on the Block_EP3.xml
+11/22/2017  05:33 AM             9,994 SEAL Team_Ghosts of Christmas_EP2.xml
+11/22/2017  05:33 AM            11,970 Shahs of Sunset_EP1.xml
+11/22/2017  05:33 AM            11,960 Shark Tank_EP1.xml
+11/22/2017  05:33 AM            15,982 Something Wild_EP1.xml
+11/22/2017  05:33 AM             7,996 Speechless_NIGHTMARE ON DIMEO STREET_EP2.xml
+11/22/2017  05:33 AM            11,994 Supergirl_Far From the Tree_EP2.xml
+11/22/2017  05:33 AM            11,989 Superstition_The Dredge_EP1.xml
+11/22/2017  05:33 AM             7,950 Superstore_EP1.xml
+11/22/2017  05:33 AM            11,989 Ten Days in the Valley _EP1.xml
+11/22/2017  05:33 AM             8,012 The Big Bang Theory_The Explosion Implosion_EP5.xml
+11/22/2017  05:33 AM             9,964 The Exorcist_EP3.xml
+11/22/2017  05:33 AM            11,991 The Gifted_eXit strategy_EP1.xml
+11/22/2017  05:33 AM             8,005 The Goldbergs_Jackie Likes Star Trek_EP5.xml
+11/22/2017  05:33 AM            11,985 The Good Doctor_Pipes_EP1.xml
+11/22/2017  05:33 AM             7,961 The Good Place_EP1.xml
+11/22/2017  05:33 AM             7,972 The Last Man on Earth_EP2.xml
+11/22/2017  05:33 AM             7,984 The Mayor_City Halloween_EP1.xml
+11/22/2017  05:33 AM             8,016 The Middle_Halloween VIII Orson Murder Mystery_EP1.xml
+11/22/2017  05:33 AM            12,034 The Real Housewives of Dallas_Ladies Who Launch_EP1.xml
+11/22/2017  05:33 AM            12,050 The Real Housewives of Orange County_An Unexpected Thaw_EP3.xml
+11/22/2017  05:33 AM             7,952 The Simpsons_EP2.xml
+11/22/2017  05:33 AM            11,962 The Toy Box_EP1.xml
+11/22/2017  05:33 AM            11,007 The Voice_The Battles Part 4_EP2.xml
+11/22/2017  05:33 AM            22,034 The Voice_The Battles Premiere_EP1.xml
+11/22/2017  05:33 AM            23,992 The Walking Dead_EP1.xml
+11/22/2017  05:33 AM             9,982 This Is Us_Brothers_EP2.xml
+11/22/2017  05:33 AM            11,978 Valor_Soldier Ready_EP1.xml
+11/22/2017  05:33 AM             6,012 Watch What Happens Live With Andy Cohen_EP2.xml
+11/22/2017  05:33 AM             7,948 Will & Grace_EP1.xml
+11/22/2017  05:33 AM             9,996 Wisdom of the Crowd_User Bias_EP1.xml
+11/22/2017  05:33 AM             9,980 Z Nation_The Unknowns_EP1.xml

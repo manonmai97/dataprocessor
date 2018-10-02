@@ -1,0 +1,219 @@
+<CRC_VODmD_Frame_Accurate_Report>
+   <!-- "Cyber Resonance Corporation Copyright 2017" -->
+   <AssetInformation id="0">
+       <Name>Crazy Ex Girlfriend_Josh Is a Liar_EP1</Name>
+       <ID>485</ID>
+       <Genre>DRM</Genre>
+       <TotalSegments>11</TotalSegments>
+       <TotalAdSegments>5</TotalAdSegments>
+       <TotalProgramSegments>6</TotalProgramSegments>
+       <AudioVolume>CRC1/</AudioVolume>
+       <AudioPath>AUDIO 4 MATLAB/</AudioPath>
+       <AudioFile>Crazy Ex Girlfriend_Josh Is a Liar_EP1.DM.CRC</AudioFile>
+       <ControlPath>/Volumes/CRC1/CRCMediaDetective/ResultsControl/</ControlPath>
+       <ResultsPath>/Volumes/CRC1/CRCMediaDetective/Results/</ResultsPath>
+       <WorkAudioPath>/Volumes/CRC1/CRCMediaDetective/WorkAudio/</WorkAudioPath>
+       <ProcessStartDate>2017-11-24</ProcessStartDate>
+       <ProcessStartTime>22:05:38</ProcessStartTime>
+       <ProcessEndDate>2017-11-24</ProcessEndDate>
+       <ProcessEndTime>22:05:38</ProcessEndTime>
+   </AssetInformation>
+   <SegmentSummary id="1">
+       <SegmentType>PROGRAM</SegmentType>
+       <InPointTC>01:00:00:00</InPointTC>
+       <OutPointTC>01:12:32:08</OutPointTC>
+       <InPointSecs>0.00400</InPointSecs>
+       <OutPointSecs>752.25327</OutPointSecs>
+   </SegmentSummary>
+   <SegmentSummary id="2">
+       <SegmentType>MIDROLL ADVERTISEMENT</SegmentType>
+       <InPointTC>01:12:34:29</InPointTC>
+       <OutPointTC>01:16:10:06</OutPointTC>
+       <InPointSecs>754.97327</InPointSecs>
+       <OutPointSecs>970.20127</OutPointSecs>
+   </SegmentSummary>
+   <SegmentSummary id="3">
+       <SegmentType>PROGRAM</SegmentType>
+       <InPointTC>01:16:11:24</InPointTC>
+       <OutPointTC>01:27:58:25</OutPointTC>
+       <InPointSecs>971.80127</InPointSecs>
+       <OutPointSecs>1678.82927</OutPointSecs>
+   </SegmentSummary>
+   <SegmentSummary id="4">
+       <SegmentType>MIDROLL ADVERTISEMENT</SegmentType>
+       <InPointTC>01:28:00:25</InPointTC>
+       <OutPointTC>01:32:53:01</OutPointTC>
+       <InPointSecs>1680.83327</InPointSecs>
+       <OutPointSecs>1973.04127</OutPointSecs>
+   </SegmentSummary>
+   <SegmentSummary id="5">
+       <SegmentType>PROGRAM</SegmentType>
+       <InPointTC>01:32:53:01</InPointTC>
+       <OutPointTC>01:37:11:01</OutPointTC>
+       <InPointSecs>1973.04527</InPointSecs>
+       <OutPointSecs>2231.02127</OutPointSecs>
+   </SegmentSummary>
+   <SegmentSummary id="6">
+       <SegmentType>MIDROLL ADVERTISEMENT</SegmentType>
+       <InPointTC>01:37:13:01</InPointTC>
+       <OutPointTC>01:40:43:08</OutPointTC>
+       <InPointSecs>2233.04127</InPointSecs>
+       <OutPointSecs>2443.26127</OutPointSecs>
+   </SegmentSummary>
+   <SegmentSummary id="7">
+       <SegmentType>PROGRAM</SegmentType>
+       <InPointTC>01:40:44:24</InPointTC>
+       <OutPointTC>01:45:12:24</OutPointTC>
+       <InPointSecs>2444.78927</InPointSecs>
+       <OutPointSecs>2712.79327</OutPointSecs>
+   </SegmentSummary>
+   <SegmentSummary id="8">
+       <SegmentType>MIDROLL ADVERTISEMENT</SegmentType>
+       <InPointTC>01:45:12:24</InPointTC>
+       <OutPointTC>01:50:00:00</OutPointTC>
+       <InPointSecs>2712.80927</InPointSecs>
+       <OutPointSecs>3000.00527</OutPointSecs>
+   </SegmentSummary>
+   <SegmentSummary id="9">
+       <SegmentType>PROGRAM</SegmentType>
+       <InPointTC>01:50:00:01</InPointTC>
+       <OutPointTC>01:54:27:00</OutPointTC>
+       <InPointSecs>3000.01727</InPointSecs>
+       <OutPointSecs>3267.00127</OutPointSecs>
+   </SegmentSummary>
+   <SegmentSummary id="10">
+       <SegmentType>MIDROLL ADVERTISEMENT</SegmentType>
+       <InPointTC>01:54:28:24</InPointTC>
+       <OutPointTC>01:57:08:29</OutPointTC>
+       <InPointSecs>3268.79727</InPointSecs>
+       <OutPointSecs>3428.97327</OutPointSecs>
+   </SegmentSummary>
+   <SegmentSummary id="11">
+       <SegmentType>PROGRAM</SegmentType>
+       <InPointTC>01:57:08:29</InPointTC>
+       <OutPointTC>01:59:59:29</OutPointTC>
+       <InPointSecs>3428.97727</InPointSecs>
+       <OutPointSecs>3599.98127</OutPointSecs>
+   </SegmentSummary>
+   <SegmentDetail id="1001">
+       <SegmentType>PROGRAM</SegmentType>
+       <InPointFrameBoundaryStartTC>01:00:00:00</InPointFrameBoundaryStartTC>
+       <InPointFrameBoundaryEndTC>01:00:00:00</InPointFrameBoundaryEndTC>
+       <OutPointFrameBoundaryStartTC>01:12:32:08</OutPointFrameBoundaryStartTC>
+       <OutPointFrameBoundaryEndTC>01:12:34:29</OutPointFrameBoundaryEndTC>
+       <InPointFrameBoundaryStartSecs>0.00400</InPointFrameBoundaryStartSecs>
+       <InPointFrameBoundaryEndSecs>0.00400</InPointFrameBoundaryEndSecs>
+       <OutPointFrameBoundaryStartSecs>752.25327</OutPointFrameBoundaryStartSecs>
+       <OutPointFrameBoundaryEndSecs>754.97327</OutPointFrameBoundaryEndSecs>
+   </SegmentDetail>
+   <SegmentDetail id="1002">
+       <SegmentType>MIDROLL ADVERTISEMENT</SegmentType>
+       <InPointFrameBoundaryStartTC>01:12:32:08</InPointFrameBoundaryStartTC>
+       <InPointFrameBoundaryEndTC>01:12:34:29</InPointFrameBoundaryEndTC>
+       <OutPointFrameBoundaryStartTC>01:16:10:06</OutPointFrameBoundaryStartTC>
+       <OutPointFrameBoundaryEndTC>01:16:11:24</OutPointFrameBoundaryEndTC>
+       <InPointFrameBoundaryStartSecs>752.25327</InPointFrameBoundaryStartSecs>
+       <InPointFrameBoundaryEndSecs>754.97327</InPointFrameBoundaryEndSecs>
+       <OutPointFrameBoundaryStartSecs>970.20127</OutPointFrameBoundaryStartSecs>
+       <OutPointFrameBoundaryEndSecs>971.80127</OutPointFrameBoundaryEndSecs>
+   </SegmentDetail>
+   <SegmentDetail id="1003">
+       <SegmentType>PROGRAM</SegmentType>
+       <InPointFrameBoundaryStartTC>01:16:10:06</InPointFrameBoundaryStartTC>
+       <InPointFrameBoundaryEndTC>01:16:11:24</InPointFrameBoundaryEndTC>
+       <OutPointFrameBoundaryStartTC>01:27:58:25</OutPointFrameBoundaryStartTC>
+       <OutPointFrameBoundaryEndTC>01:28:00:25</OutPointFrameBoundaryEndTC>
+       <InPointFrameBoundaryStartSecs>970.20127</InPointFrameBoundaryStartSecs>
+       <InPointFrameBoundaryEndSecs>971.80127</InPointFrameBoundaryEndSecs>
+       <OutPointFrameBoundaryStartSecs>1678.82927</OutPointFrameBoundaryStartSecs>
+       <OutPointFrameBoundaryEndSecs>1680.83327</OutPointFrameBoundaryEndSecs>
+   </SegmentDetail>
+   <SegmentDetail id="1004">
+       <SegmentType>MIDROLL ADVERTISEMENT</SegmentType>
+       <InPointFrameBoundaryStartTC>01:27:58:25</InPointFrameBoundaryStartTC>
+       <InPointFrameBoundaryEndTC>01:28:00:25</InPointFrameBoundaryEndTC>
+       <OutPointFrameBoundaryStartTC>01:32:53:01</OutPointFrameBoundaryStartTC>
+       <OutPointFrameBoundaryEndTC>01:32:53:01</OutPointFrameBoundaryEndTC>
+       <InPointFrameBoundaryStartSecs>1678.82927</InPointFrameBoundaryStartSecs>
+       <InPointFrameBoundaryEndSecs>1680.83327</InPointFrameBoundaryEndSecs>
+       <OutPointFrameBoundaryStartSecs>1973.04127</OutPointFrameBoundaryStartSecs>
+       <OutPointFrameBoundaryEndSecs>1973.04527</OutPointFrameBoundaryEndSecs>
+   </SegmentDetail>
+   <SegmentDetail id="1005">
+       <SegmentType>PROGRAM</SegmentType>
+       <InPointFrameBoundaryStartTC>01:32:53:01</InPointFrameBoundaryStartTC>
+       <InPointFrameBoundaryEndTC>01:32:53:01</InPointFrameBoundaryEndTC>
+       <OutPointFrameBoundaryStartTC>01:37:11:01</OutPointFrameBoundaryStartTC>
+       <OutPointFrameBoundaryEndTC>01:37:13:01</OutPointFrameBoundaryEndTC>
+       <InPointFrameBoundaryStartSecs>1973.04127</InPointFrameBoundaryStartSecs>
+       <InPointFrameBoundaryEndSecs>1973.04527</InPointFrameBoundaryEndSecs>
+       <OutPointFrameBoundaryStartSecs>2231.02127</OutPointFrameBoundaryStartSecs>
+       <OutPointFrameBoundaryEndSecs>2233.04127</OutPointFrameBoundaryEndSecs>
+   </SegmentDetail>
+   <SegmentDetail id="1006">
+       <SegmentType>MIDROLL ADVERTISEMENT</SegmentType>
+       <InPointFrameBoundaryStartTC>01:37:11:01</InPointFrameBoundaryStartTC>
+       <InPointFrameBoundaryEndTC>01:37:13:01</InPointFrameBoundaryEndTC>
+       <OutPointFrameBoundaryStartTC>01:40:43:08</OutPointFrameBoundaryStartTC>
+       <OutPointFrameBoundaryEndTC>01:40:44:24</OutPointFrameBoundaryEndTC>
+       <InPointFrameBoundaryStartSecs>2231.02127</InPointFrameBoundaryStartSecs>
+       <InPointFrameBoundaryEndSecs>2233.04127</InPointFrameBoundaryEndSecs>
+       <OutPointFrameBoundaryStartSecs>2443.26127</OutPointFrameBoundaryStartSecs>
+       <OutPointFrameBoundaryEndSecs>2444.78927</OutPointFrameBoundaryEndSecs>
+   </SegmentDetail>
+   <SegmentDetail id="1007">
+       <SegmentType>PROGRAM</SegmentType>
+       <InPointFrameBoundaryStartTC>01:40:43:08</InPointFrameBoundaryStartTC>
+       <InPointFrameBoundaryEndTC>01:40:44:24</InPointFrameBoundaryEndTC>
+       <OutPointFrameBoundaryStartTC>01:45:12:24</OutPointFrameBoundaryStartTC>
+       <OutPointFrameBoundaryEndTC>01:45:12:24</OutPointFrameBoundaryEndTC>
+       <InPointFrameBoundaryStartSecs>2443.26127</InPointFrameBoundaryStartSecs>
+       <InPointFrameBoundaryEndSecs>2444.78927</InPointFrameBoundaryEndSecs>
+       <OutPointFrameBoundaryStartSecs>2712.79327</OutPointFrameBoundaryStartSecs>
+       <OutPointFrameBoundaryEndSecs>2712.80927</OutPointFrameBoundaryEndSecs>
+   </SegmentDetail>
+   <SegmentDetail id="1008">
+       <SegmentType>MIDROLL ADVERTISEMENT</SegmentType>
+       <InPointFrameBoundaryStartTC>01:45:12:24</InPointFrameBoundaryStartTC>
+       <InPointFrameBoundaryEndTC>01:45:12:24</InPointFrameBoundaryEndTC>
+       <OutPointFrameBoundaryStartTC>01:50:00:00</OutPointFrameBoundaryStartTC>
+       <OutPointFrameBoundaryEndTC>01:50:00:01</OutPointFrameBoundaryEndTC>
+       <InPointFrameBoundaryStartSecs>2712.79327</InPointFrameBoundaryStartSecs>
+       <InPointFrameBoundaryEndSecs>2712.80927</InPointFrameBoundaryEndSecs>
+       <OutPointFrameBoundaryStartSecs>3000.00527</OutPointFrameBoundaryStartSecs>
+       <OutPointFrameBoundaryEndSecs>3000.01727</OutPointFrameBoundaryEndSecs>
+   </SegmentDetail>
+   <SegmentDetail id="1009">
+       <SegmentType>PROGRAM</SegmentType>
+       <InPointFrameBoundaryStartTC>01:50:00:00</InPointFrameBoundaryStartTC>
+       <InPointFrameBoundaryEndTC>01:50:00:01</InPointFrameBoundaryEndTC>
+       <OutPointFrameBoundaryStartTC>01:54:27:00</OutPointFrameBoundaryStartTC>
+       <OutPointFrameBoundaryEndTC>01:54:28:24</OutPointFrameBoundaryEndTC>
+       <InPointFrameBoundaryStartSecs>3000.00527</InPointFrameBoundaryStartSecs>
+       <InPointFrameBoundaryEndSecs>3000.01727</InPointFrameBoundaryEndSecs>
+       <OutPointFrameBoundaryStartSecs>3267.00127</OutPointFrameBoundaryStartSecs>
+       <OutPointFrameBoundaryEndSecs>3268.79727</OutPointFrameBoundaryEndSecs>
+   </SegmentDetail>
+   <SegmentDetail id="1010">
+       <SegmentType>MIDROLL ADVERTISEMENT</SegmentType>
+       <InPointFrameBoundaryStartTC>01:54:27:00</InPointFrameBoundaryStartTC>
+       <InPointFrameBoundaryEndTC>01:54:28:24</InPointFrameBoundaryEndTC>
+       <OutPointFrameBoundaryStartTC>01:57:08:29</OutPointFrameBoundaryStartTC>
+       <OutPointFrameBoundaryEndTC>01:57:08:29</OutPointFrameBoundaryEndTC>
+       <InPointFrameBoundaryStartSecs>3267.00127</InPointFrameBoundaryStartSecs>
+       <InPointFrameBoundaryEndSecs>3268.79727</InPointFrameBoundaryEndSecs>
+       <OutPointFrameBoundaryStartSecs>3428.97327</OutPointFrameBoundaryStartSecs>
+       <OutPointFrameBoundaryEndSecs>3428.97727</OutPointFrameBoundaryEndSecs>
+   </SegmentDetail>
+   <SegmentDetail id="1011">
+       <SegmentType>PROGRAM</SegmentType>
+       <InPointFrameBoundaryStartTC>01:57:08:29</InPointFrameBoundaryStartTC>
+       <InPointFrameBoundaryEndTC>01:57:08:29</InPointFrameBoundaryEndTC>
+       <OutPointFrameBoundaryStartTC>01:59:59:29</OutPointFrameBoundaryStartTC>
+       <OutPointFrameBoundaryEndTC>01:59:59:29</OutPointFrameBoundaryEndTC>
+       <InPointFrameBoundaryStartSecs>3428.97327</InPointFrameBoundaryStartSecs>
+       <InPointFrameBoundaryEndSecs>3428.97727</InPointFrameBoundaryEndSecs>
+       <OutPointFrameBoundaryStartSecs>3599.98127</OutPointFrameBoundaryStartSecs>
+       <OutPointFrameBoundaryEndSecs>3599.98127</OutPointFrameBoundaryEndSecs>
+   </SegmentDetail>
+</CRC_VODmD_Frame_Accurate_Report>

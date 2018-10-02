@@ -1,0 +1,175 @@
+11/22/2017  05:33 AM            99,261 10.15.17 - Americas - EP0000018329-0378474203_ABC Affiliate.json
+11/22/2017  05:33 AM            55,927 10.15.17 - Bobs - EP0165674492-0378432317_Fox Affiliate.json
+11/22/2017  05:33 AM            43,990 10.15.17 - Family - EP0000299214-0378432203_Fox Affiliate.json
+11/22/2017  05:33 AM            48,577 10.15.17 - Ghosted - EP0368105492-0378434349_Fox Affiliate.json
+11/22/2017  05:33 AM            89,458 10.15.17 - Shahs - EP0208571996-0378752864_Bravo (East).json
+11/22/2017  05:33 AM           101,866 10.15.17 - Shark - EP0147252501-0378474995_ABC Affiliate.json
+11/22/2017  05:33 AM            42,953 10.15.17 - Simpons - EP0000016642-0378432184_Fox Affiliate.json
+11/22/2017  05:33 AM            93,495 10.15.17 - Ten Days - EP0361865949-0378474996_ABC Affiliate.json
+11/22/2017  05:33 AM            43,399 10.15.17 - The Last Man - EP0317679548-0378432490_Fox Affiliate.json
+11/22/2017  05:33 AM           107,367 10.15.17 - The Toy Box - EP0362399154-0379909577_ABC Affiliate.json
+11/22/2017  05:33 AM            47,268 10.16.17 - 9JKL - EP0366819610-0378795729_CBS Affiliate.json
+11/22/2017  05:33 AM            43,372 10.16.17 - BIG BANG - EP0097522875-0379005791_CBS Affiliate.json
+11/22/2017  05:33 AM           207,311 10.16.17 - DANCING - EP0048838144-0378795611_ABC Affiliate.json
+11/22/2017  05:33 AM            44,356 10.16.17 - KEVIN - EP0345194400-0378919953_CBS Affiliate.json
+11/22/2017  05:33 AM            52,589 10.16.17 - ME, MYSELF - EP0368105486-0378919954_CBS Affiliate.json
+11/22/2017  05:33 AM            98,822 10.16.17 - SCORPION - EP0317847816-0378635523_CBS Affiliate.json
+11/22/2017  05:33 AM            87,779 10.16.17 - THE BRAVE - EP0368105490-0378709546_NBC Affiliate.json
+11/22/2017  05:33 AM            92,931 10.16.17 - THE GOOD - EP0368196913-0378795732_ABC Affiliate.json
+11/22/2017  05:33 AM           185,728 10.16.17 - THE VOICE - EP0176272797-0378707340_NBC Affiliate.json
+11/22/2017  05:33 AM            71,660 10.17.17 - AMERICAN - EP0376428726-0378351816_FX (East).json
+11/22/2017  05:33 AM            90,279 10.17.17 - NCIS - EP0317847606-0378265252_CBS Affiliate.json
+11/22/2017  05:33 AM            92,248 10.17.17 - TRUE CRIME - EP0367465822-0378709545_NBC Affiliate.json
+11/22/2017  05:33 AM            89,446 10.18.17 - CHICAGO - EP0269674369-0378709409_NBC Affiliate.json
+11/22/2017  05:33 AM            91,283 10.18.17 - CRIMINAL - EP0055803730-0378265053_CBS Affiliate.json
+11/22/2017  05:33 AM            88,976 10.18.17 - DYNASTY - EP0367769106-0378961715_CW Affiliate.json
+11/22/2017  05:33 AM            99,591 10.18.17 - LAW - EP0000880788-0378707039_NBC Affiliate.json
+11/22/2017  05:33 AM            77,526 10.18.17 - SEAL - EP0372072580-0378961730_CBS Affiliate.json
+11/22/2017  05:33 AM            82,871 10.19.17 - CHICAGO - EP0222829666-0378709110_NBC Affiliate.json
+11/22/2017  05:33 AM            76,806 10.19.17 - GOTHAM - EP0309279326-0378791556_Fox Affiliate.json
+11/22/2017  05:33 AM            47,771 10.19.17 - GREAT - EP0349153932-0378709519_NBC Affiliate.json
+11/22/2017  05:33 AM            91,659 10.19.17 - HOW TO GET - EP0317753296-0378795635_ABC Affiliate.json
+11/22/2017  05:33 AM            86,744 10.19.17 - SCANDAL - EP0183496857-0378795610_ABC Affiliate.json
+11/22/2017  05:33 AM            50,692 10.19.17 - SUPERSTORE - EP0331182553-0378709467_NBC Affiliate.json
+11/22/2017  05:33 AM            52,069 10.19.17 - THE GOOD - EP0339350630-0378709491_NBC Affiliate.json
+11/22/2017  05:33 AM            51,105 10.19.17 - WILL - EP0376712309-0379196030_NBC Affiliate.json
+11/22/2017  05:33 AM            87,410 10.20.17 - BLUE - EP0165719466-0378961553_CBS Affiliate.json
+11/22/2017  05:33 AM            73,219 10.20.17 - EXORCIST - EP0345132377-0378791558_Fox Affiliate.json
+11/22/2017  05:33 AM            89,538 10.20.17 - Hawaii - EP0165719911-0378961536_CBS Affiliate.json
+11/22/2017  05:33 AM            77,884 10.20.17 - MARVEL - EP0368343601-0378795724_ABC Affiliate.json
+11/22/2017  05:33 AM            86,974 10.22.17 - 90 DAY - BRING - EP0301557838-0379195542_The Learning Channel HDTV (East).json
+11/22/2017  05:33 AM            59,008 10.22.17 - 90 DAY LINE - EP0375533230-0379195543_The Learning Channel HDTV (East).json
+11/22/2017  05:33 AM            94,448 10.22.17 - MADAM - EP0317847336-0378961618_CBS Affiliate.json
+11/22/2017  05:33 AM            96,157 10.22.17 - MY GIANT - EP0332076613-0378635713_The Learning Channel HDTV (East).json
+11/22/2017  05:33 AM            90,319 10.22.17 - NCIS - EP0147316367-0378961516_CBS Affiliate.json
+11/22/2017  05:33 AM            89,349 10.22.17 - WISDOM - EP0367727153-0378961714_CBS Affiliate.json
+11/22/2017  05:33 AM            78,938 10.23.17 - THE GIFTED - EP0371838123-0378474510_Fox Affiliate.json
+11/22/2017  05:33 AM           114,592 10.23.17 - THE REAL - EP0066164896-0379251423_Bravo (East).json
+11/22/2017  05:33 AM           102,183 10.23.17 - THE REAL 2 - EP0340387382-0378635740_Bravo (East).json
+11/22/2017  05:33 AM            89,628 10.23.17 - VALOR - EP0367424563-0379199661_CW Affiliate.json
+11/22/2017  05:33 AM            61,057 10.23.17 - WATCH WHAT - EP0148678615-0379197465_Bravo (East).json
+11/22/2017  05:33 AM            55,340 10.24.17 - BLACKISH - EP0317753284-0379196849_ABC Affiliate.json
+11/22/2017  05:33 AM            95,979 10.24.17 - BULL - EP0345194419-0378961676_CBS Affiliate.json
+11/22/2017  05:33 AM            49,053 10.24.17 - FRESH OFF - EP0317753096-0379196850_ABC Affiliate.json
+11/22/2017  05:33 AM            93,193 10.24.17 - KEVIN - EP0368343611-0379196866_ABC Affiliate.json
+11/22/2017  05:33 AM            90,281 10.24.17 - LAW - EP0367465822-0378961713_NBC Affiliate.json
+11/22/2017  05:33 AM            92,793 10.24.17 - NCIS FAKE - EP0030244724-0379337980_CBS Affiliate.json
+11/22/2017  05:33 AM            51,550 10.24.17 - THE MIDDLE - EP0147252439-0379197535_ABC Affiliate.json
+11/22/2017  05:33 AM            90,630 10.24.17 - THE VOICE - EP0176272797-0378961552_NBC Affiliate.json
+11/22/2017  05:33 AM            84,624 10.24.17 - THIS IS US - EP0345054742-0379348333_NBC Affiliate.json
+11/22/2017  05:33 AM            90,614 10.24.17 -NCIS VIRAL - EP0317847606-0378961617_CBS Affiliate.json
+11/22/2017  05:33 AM            58,034 10.24.17 -THE MAYOR - EP0372216492-0379196867_ABC Affiliate.json
+11/22/2017  05:33 AM            51,190 10.25.17 - AMERICAN - EP0345166804-0379196860_ABC Affiliate.json
+11/22/2017  05:33 AM           112,736 10.25.17 - DESIGNATED - EP0345166749-0379196857_ABC Affiliate.json
+11/22/2017  05:33 AM            92,700 10.25.17 - DYNASTY - EP0367769106-0379199669_CW Affiliate.json
+11/22/2017  05:33 AM           107,293 10.25.17 - GARAGE - EP0376425905-0378710356_The Discovery Channel (East).json
+11/22/2017  05:33 AM            62,145 10.25.17 - GOLDBERG - EP0269860555-0379201592_ABC Affiliate.json
+11/22/2017  05:33 AM            97,005 10.25.17 - MISFIT 1 - EP0326106553-0379534257_The Discovery Channel (East).json
+11/22/2017  05:33 AM           121,347 10.25.17 - MISFIT 2 - EP0323835765-0379197167_The Discovery Channel (East).json
+11/22/2017  05:33 AM            65,910 10.25.17 - MODERN - EP0147252345-0379196845_ABC Affiliate.json
+11/22/2017  05:33 AM            81,224 10.25.17 - RIVERDALE - EP0349125713-0379199668_CW Affiliate.json
+11/22/2017  05:33 AM            54,819 10.25.17 - SPEECHLESS - EP0345166834-0379196861_ABC Affiliate.json
+11/22/2017  05:33 AM           152,287 10.26.17 -  PROJECT - EP0035639112-0378956029_Lifetime Television HDTV (East).json
+11/22/2017  05:33 AM            96,473 10.26.17 - AMERICA - EP0376670361-0378709586_Lifetime Television HDTV (East).json
+11/22/2017  05:33 AM           175,142 10.26.17 - FORGED - EP0360432534-0378710433_History (East).json
+11/22/2017  05:33 AM            75,359 10.26.17 - ICE ROAD - EP0002234014-0378710434_History (East).json
+11/22/2017  05:33 AM            83,001 10.26.17 - PROJECT - EP0035639112-0379005676_Lifetime Television HDTV (East).json
+11/22/2017  05:33 AM            96,857 10.27.17 - CRAZY - EP0318047302-0379199674_CW Affiliate.json
+11/22/2017  05:33 AM           100,419 10.27.17 - CRAZY - EP0331294913-0379617587_CW Affiliate.json
+11/22/2017  05:33 AM            53,331 10.27.17 - EVIL -  EP0376795746-0378791447_The Learning Channel.json
+11/22/2017  05:33 AM            96,857 10.27.17 - JANE - EP0318047302-0379199674_CW Affiliate.json
+11/22/2017  05:33 AM            65,135 10.27.17 - KINDRED - EP0356295935-0379822850_The Learning Channel (East).json
+11/22/2017  05:33 AM            67,922 10.27.17 - KINDRED 2 - EP0356295935-0378791448_The Learning Channel.json
+11/22/2017  05:33 AM            71,925 10.27.17 - SUPER - EP0376181849-0378351860_Syfy (East).json
+11/22/2017  05:33 AM            73,597 10.27.17 - Z NATION - EP0322986463-0378957728_Syfy (East).json
+11/22/2017  05:33 AM           109,713 10.28.17 - HOUSE - EP0229192265-0378958540_Home & Garden Television (East).json
+11/22/2017  05:33 AM           107,318 10.28.17 - JEEPERS MV0379199369-0379199370_Syfy (East).json
+11/22/2017  05:33 AM            10,042 90 Day Fiance Before the 90 Days_Line in the Sand_EP3.xml
+11/22/2017  05:33 AM            10,006 90 Day Fiance_Bring on the 90 Days_EP4.xml
+11/22/2017  05:33 AM             7,963 9JKL_Cool Friend Luke_EP1.xml
+11/22/2017  05:33 AM            12,000 America's Funniest Home Videos_EP1.xml
+11/22/2017  05:33 AM             9,980 American Horror Story_EP2.xml
+11/22/2017  05:33 AM             7,013 American Housewife_Boo-Who_EP2.xml
+11/22/2017  05:33 AM    <DIR>          Avengers
+11/22/2017  05:33 AM             7,977 blackish_Advance to Go_EP2.xml
+11/22/2017  05:33 AM             9,954 Blue Bloods_EP2.xml
+11/22/2017  05:33 AM             8,008 Bob's Burgers_The Silence of the Louise_EP1.xml
+11/22/2017  05:33 AM             9,998 Bull_Play the Hand You're Dealt_EP3.xml
+11/22/2017  05:33 AM             9,965 Chicago Fire_EP2.xml
+11/22/2017  05:33 AM             9,964 Chicago PD_EP1.xml
+11/22/2017  05:33 AM            12,011 Crazy Ex Girlfriend_Josh Is a Liar_EP1.xml
+11/22/2017  05:33 AM             9,988 Criminal Minds_Killer App_EP3.xml
+11/22/2017  05:33 AM            20,016 Dancing With the Stars LIVE_EP3.xml
+11/22/2017  05:33 AM            11,997 Designated Survivor_Suckers_EP2.xml
+11/22/2017  05:33 AM            11,954 Dynasty_EP1.xml
+11/22/2017  05:33 AM            12,027 Evil Things_The Wardrobe and The Interview_EP1.xml
+11/22/2017  05:33 AM             8,042 Fresh Off the Boat_It's a Plastic Pumpkin Louis Huang_EP2.xml
+11/22/2017  05:33 AM             9,983 Garage Rehab_Abel Racing_EP1.xml
+11/22/2017  05:33 AM             7,941 Ghosted_EP1.xml
+11/22/2017  05:33 AM            11,955 Gotham_EP2.xml
+11/22/2017  05:33 AM             7,950 Great News_EP1.xml
+11/22/2017  05:33 AM            22,017 Guardians of the Galaxy_EP1.xml
+11/22/2017  05:33 AM             9,964 Hawaii Five O_EP2.xml
+11/22/2017  05:33 AM             8,046 House Hunters International_Sea Sight in the Isle of Wight_EP8.xml
+11/22/2017  05:33 AM             7,021 House Hunters_Cozy Cabin in California_EP7.xml
+11/22/2017  05:33 AM            14,039 HousHunters Renovation_Big Family, Big Renovation_EP6.xml
+11/22/2017  05:33 AM            11,997 How to Get Away With Murder_EP2.xml
+11/22/2017  05:33 AM            12,000 Ice Road Truckers_The Big Skid_EP1.xml
+11/22/2017  05:33 AM            15,989 Jeepers Creepers 3_EP1.xml
+11/22/2017  05:33 AM             8,021 Kevin Can Wait_Plus One Is the Loneliest Number_EP2.xml
+11/22/2017  05:33 AM            12,033 Kevin Probably Saves the World_How to Be Good_EP1.xml
+11/22/2017  05:33 AM             7,989 Kindred Spirits_Fire Starter_EP1.xml
+11/22/2017  05:33 AM            12,006 Kindred Spirits_Shadow of a Doubt_EP2.xml
+11/22/2017  05:33 AM            12,001 Law & Order Special Victims Unit_EP1.xml
+11/22/2017  05:33 AM            10,024 Law & Order True Crime The Menendez Murders_EP2.xml
+11/22/2017  05:33 AM            10,016 Law & Order True Crime_The Menendez Murders.xml
+11/22/2017  05:36 AM                 0 list.txt
+11/22/2017  05:33 AM             9,998 Madam Secretary_The Essentials_EP1.xml
+11/22/2017  05:33 AM             9,975 Marvel's Inhumans_EP2.xml
+11/22/2017  05:33 AM             7,975 Me, Myself & I_Star Wars_EP2.xml
+11/22/2017  05:33 AM            12,011 Misfit Garage Fired Up_Stars Align_EP1.xml
+11/22/2017  05:33 AM            10,013 Misfit Garage_Fair Game for a Fairlane_EP2.xml
+11/22/2017  05:33 AM            26,022 MLB World Series_Game5_2017.xml
+11/22/2017  05:33 AM             8,032 Modern Family_It's the Great Pumpkin Phil Dunphy_EP4.xml
+11/22/2017  05:33 AM             9,994 NCIS Los Angeles_Plain Sight_EP1.xml
+11/22/2017  05:33 AM             9,976 NCIS New Orleans_EP2.xml
+11/22/2017  05:33 AM             9,992 Person of Interest_Triggerman_EP1.xml
+11/22/2017  05:33 AM            14,042 Project Runway Social Thread_Driving Miss Unconventional_EP3.xml
+11/22/2017  05:33 AM            16,008 Project Runway_Warrior Fashion_EP4.xml
+11/22/2017  05:33 AM            14,039 Property Brothers_Chasing the Suburban Dream Home_EP1.xml
+11/22/2017  05:33 AM            14,029 Property Brothers_Collaboration and Teamwork_EP2.xml
+11/22/2017  05:33 AM            12,009 Riverdale_The Watcher in the Woods_EP1.xml
+11/22/2017  05:33 AM            17,989 San Andreas_EP1.xml
+11/22/2017  05:33 AM            11,957 Scandal_EP2.xml
+11/22/2017  05:33 AM            10,000 Scorpion_Nuke Kids on the Block_EP3.xml
+11/22/2017  05:33 AM             9,994 SEAL Team_Ghosts of Christmas_EP2.xml
+11/22/2017  05:33 AM            11,970 Shahs of Sunset_EP1.xml
+11/22/2017  05:33 AM            11,960 Shark Tank_EP1.xml
+11/22/2017  05:33 AM            15,982 Something Wild_EP1.xml
+11/22/2017  05:33 AM             7,996 Speechless_NIGHTMARE ON DIMEO STREET_EP2.xml
+11/22/2017  05:33 AM            11,994 Supergirl_Far From the Tree_EP2.xml
+11/22/2017  05:33 AM            11,989 Superstition_The Dredge_EP1.xml
+11/22/2017  05:33 AM             7,950 Superstore_EP1.xml
+11/22/2017  05:33 AM            11,989 Ten Days in the Valley _EP1.xml
+11/22/2017  05:33 AM             8,012 The Big Bang Theory_The Explosion Implosion_EP5.xml
+11/22/2017  05:33 AM             9,964 The Exorcist_EP3.xml
+11/22/2017  05:33 AM            11,991 The Gifted_eXit strategy_EP1.xml
+11/22/2017  05:33 AM             8,005 The Goldbergs_Jackie Likes Star Trek_EP5.xml
+11/22/2017  05:33 AM            11,985 The Good Doctor_Pipes_EP1.xml
+11/22/2017  05:33 AM             7,961 The Good Place_EP1.xml
+11/22/2017  05:33 AM             7,972 The Last Man on Earth_EP2.xml
+11/22/2017  05:33 AM             7,984 The Mayor_City Halloween_EP1.xml
+11/22/2017  05:33 AM             8,016 The Middle_Halloween VIII Orson Murder Mystery_EP1.xml
+11/22/2017  05:33 AM            12,034 The Real Housewives of Dallas_Ladies Who Launch_EP1.xml
+11/22/2017  05:33 AM            12,050 The Real Housewives of Orange County_An Unexpected Thaw_EP3.xml
+11/22/2017  05:33 AM             7,952 The Simpsons_EP2.xml
+11/22/2017  05:33 AM            11,962 The Toy Box_EP1.xml
+11/22/2017  05:33 AM            11,007 The Voice_The Battles Part 4_EP2.xml
+11/22/2017  05:33 AM            22,034 The Voice_The Battles Premiere_EP1.xml
+11/22/2017  05:33 AM            23,992 The Walking Dead_EP1.xml
+11/22/2017  05:33 AM             9,982 This Is Us_Brothers_EP2.xml
+11/22/2017  05:33 AM            11,978 Valor_Soldier Ready_EP1.xml
+11/22/2017  05:33 AM             6,012 Watch What Happens Live With Andy Cohen_EP2.xml
+11/22/2017  05:33 AM             7,948 Will & Grace_EP1.xml
+11/22/2017  05:33 AM             9,996 Wisdom of the Crowd_User Bias_EP1.xml
+11/22/2017  05:33 AM             9,980 Z Nation_The Unknowns_EP1.xml
