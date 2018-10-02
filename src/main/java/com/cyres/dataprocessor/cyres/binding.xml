@@ -1,0 +1,20 @@
+<jaxb:bindings 
+  xmlns:jaxb="http://java.sun.com/xml/ns/jaxb"
+  xmlns:xs="http://www.w3.org/2001/XMLSchema"
+  xmlns:xjc="http://java.sun.com/xml/ns/jaxb/xjc"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://java.sun.com/xml/ns/jaxb http://java.sun.com/xml/ns/jaxb/bindingschema_2_0.xsd"
+  jaxb:extensionBindingPrefixes="xjc"
+  version="2.1">
+	<jaxb:bindings schemaLocation="CRC_VODmD_Frame_Accurate_Report.xsd">
+		<jaxb:bindings node="//xs:complexType[@name='AssetInformation']/xs:attribute[@name='id']">
+			<jaxb:property name="id2"/>
+		</jaxb:bindings>
+		<jaxb:bindings node="//xs:complexType[@name='SegmentSummary']/xs:attribute[@name='id']">
+			<jaxb:property name="id2"/>
+		</jaxb:bindings>
+		<jaxb:bindings node="//xs:complexType[@name='SegmentDetail']/xs:attribute[@name='id']">
+			<jaxb:property name="id2"/>
+		</jaxb:bindings>
+	</jaxb:bindings>
+</jaxb:bindings>

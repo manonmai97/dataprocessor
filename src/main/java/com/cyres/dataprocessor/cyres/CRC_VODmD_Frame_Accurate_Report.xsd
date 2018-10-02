@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema"
+	elementFormDefault="qualified" attributeFormDefault="unqualified">
+	<!-- XML Schema Generated from XML Document on Sun Sep 24 2017 11:56:11 
+		GMT-0400 (EDT) -->
+	<!-- with XmlGrid.net Free Online Service http://xmlgrid.net -->
+	<xs:element name="CRC_VODmD_Frame_Accurate_Report">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element name="AssetInformation" type="AssetInformation" />
+				<xs:element name="SegmentSummary" maxOccurs="unbounded"
+					type="SegmentSummary" />
+				<xs:element name="SegmentDetail" maxOccurs="unbounded"
+					type="SegmentDetail" />
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+	<xs:complexType name="AssetInformation">
+		<xs:sequence>
+			<xs:element name="Name" type="xs:string"></xs:element>
+			<xs:element name="ID" type="xs:int"></xs:element>
+			<xs:element name="Genre" type="xs:string"></xs:element>
+			<xs:element name="TotalSegments" type="xs:int"></xs:element>
+			<xs:element name="TotalAdSegments" type="xs:int"></xs:element>
+			<xs:element name="TotalProgramSegments" type="xs:int"></xs:element>
+			<xs:element name="AudioVolume" type="xs:string"></xs:element>
+			<xs:element name="AudioPath" type="xs:string"></xs:element>
+			<xs:element name="AudioFile" type="xs:string"></xs:element>
+			<xs:element name="ControlPath" type="xs:string"></xs:element>
+			<xs:element name="ResultsPath" type="xs:string"></xs:element>
+			<xs:element name="WorkAudioPath" type="xs:string"></xs:element>
+			<xs:element name="ProcessStartDate" type="xs:date"></xs:element>
+			<xs:element name="ProcessStartTime" type="xs:string"></xs:element>
+			<xs:element name="ProcessEndDate" type="xs:date"></xs:element>
+			<xs:element name="ProcessEndTime" type="xs:string"></xs:element>
+		</xs:sequence>
+		<xs:attribute name="id" type="xs:int"></xs:attribute>
+	</xs:complexType>
+	<xs:complexType name="SegmentSummary">
+		<xs:sequence>
+			<xs:element name="SegmentType" type="xs:string"></xs:element>
+			<xs:element name="InPointTC" type="xs:string"></xs:element>
+			<xs:element name="OutPointTC" type="xs:string"></xs:element>
+			<xs:element name="InPointSecs" type="xs:double"></xs:element>
+			<xs:element name="OutPointSecs" type="xs:double"></xs:element>
+		</xs:sequence>
+		<xs:attribute name="id" type="xs:int"></xs:attribute>
+	</xs:complexType>
+	<xs:complexType name="SegmentDetail">
+		<xs:sequence>
+			<xs:element name="SegmentType" type="xs:string"></xs:element>
+			<xs:element name="InPointFrameBoundaryStartTC" type="xs:string"></xs:element>
+			<xs:element name="InPointFrameBoundaryEndTC" type="xs:string"></xs:element>
+			<xs:element name="OutPointFrameBoundaryStartTC" type="xs:string"></xs:element>
+			<xs:element name="OutPointFrameBoundaryEndTC" type="xs:string"></xs:element>
+			<xs:element name="InPointFrameBoundaryStartSecs" type="xs:double"></xs:element>
+			<xs:element name="InPointFrameBoundaryEndSecs" type="xs:double"></xs:element>
+			<xs:element name="OutPointFrameBoundaryStartSecs" type="xs:double"></xs:element>
+			<xs:element name="OutPointFrameBoundaryEndSecs" type="xs:double"></xs:element>
+		</xs:sequence>
+		<xs:attribute name="id" type="xs:int"></xs:attribute>
+	</xs:complexType>
+</xs:schema>
